@@ -1,0 +1,22 @@
+/* pages/content/content.wxss */
+.img_act{
+  width: 100%;
+  height: 100%;
+}
+.swiper_act{
+  height: 35vh;
+}
+.wrap_btn{
+  margin: 5px;
+  border: 1px solid #aaa;
+  height: 40vh;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.wrap_btn>view{
+  height: 49%;
+  width: 49%;
+  border: 1px solid #aaa;
+}

@@ -1,0 +1,19 @@
+<swiper indicator-dots="{{indicatorDots}}"
+indicator-color
+autoplay="{{autoplay}}"
+current
+interval="{{interval}}"
+duration="{{duration}}"
+circular="{{circular}}" class="swiper_act">
+  <block wx:for="{{imgURLs}}">
+    <swiper-item>
+      <image src="{{item}}" class="img_act"></image>
+    </swiper-item>
+  </block>
+</swiper>
+<view class="wrap_btn">
+<view></view>
+<view></view>
+<view></view>
+<view></view>
+</view>
