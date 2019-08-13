@@ -10,12 +10,12 @@ Page({
     interval: 3000,
     duration: 1000,
     imgURLs: [
-      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565513954354&di=8a502de7a064a11f007642b98914fc1f&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201801%2F26%2F20180126005333_T835x.jpeg',
-      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565513954354&di=63c459423a0a2ad9528f39992e88096f&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201809%2F22%2F20180922230455_VZhYu.thumb.700_0.jpeg',
-      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565513954349&di=787d5ecdb51a7403ae02ffc88f5b5729&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F52878497d0a2eca89d147d35e462183cbfcc7c3a.jpg',
-      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565513954348&di=7fc94e14023f056757033f82b6d54bd5&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201807%2F19%2F20180719125441_obrrc.jpg',
-      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565514358183&di=285e5bcf9290109484847da4049b502b&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201508%2F03%2F20150803143919_54YW2.jpeg',
-      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565514561889&di=aa23c8c179739908b70b195926a81910&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F683d9f5f497ca89e4f2b12dc86207bc62ff24f9b.jpg'
+      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565678644819&di=ba63a1378587701d3c0346c62f1dbb2e&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201503%2F27%2F20150327133834_JQWKZ.jpeg',
+      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679009677&di=fea0d86c1761dfd813a273a5452c3633&imgtype=0&src=http%3A%2F%2Fpic.rmb.bdstatic.com%2Ff54083119edfb83c4cfe9ce2eeebc076.jpeg',
+      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679009677&di=1172402ffdaeb0cd3688399d500673a2&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201806%2F20%2F20180620171603_JsPzu.jpeg',
+      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679162933&di=8ac43aeef425e3457c4731ac1f3de563&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F11a0b9ecd2d213368312fc3d0040093a31b2322db5e34-IKF1kM_fw658',
+      'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679250928&di=d4d2f5cca29366767d37f2bb5e136c23&imgtype=0&src=http%3A%2F%2Fpic46.nipic.com%2F20140806%2F12668038_093125385667_2.jpg',
+	'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679828379&di=4126fe2973e56ea71de0d828b8d98c12&imgtype=0&src=http%3A%2F%2Fimg2.51tietu.net%2F2019%2Fweimeitpian%2F20190708%2F7175cc3f1979d91173cab3cee0759877.jpg'
     ]
   },
 
