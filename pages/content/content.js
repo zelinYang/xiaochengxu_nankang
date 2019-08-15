@@ -16,7 +16,8 @@ Page({
       'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679162933&di=8ac43aeef425e3457c4731ac1f3de563&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F11a0b9ecd2d213368312fc3d0040093a31b2322db5e34-IKF1kM_fw658',
       'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679250928&di=d4d2f5cca29366767d37f2bb5e136c23&imgtype=0&src=http%3A%2F%2Fpic46.nipic.com%2F20140806%2F12668038_093125385667_2.jpg',
 	'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565679828379&di=4126fe2973e56ea71de0d828b8d98c12&imgtype=0&src=http%3A%2F%2Fimg2.51tietu.net%2F2019%2Fweimeitpian%2F20190708%2F7175cc3f1979d91173cab3cee0759877.jpg'
-    ]
+    ],
+    icoURLs: []
   },
 
   /**
