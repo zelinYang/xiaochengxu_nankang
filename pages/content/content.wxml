@@ -12,8 +12,7 @@ circular="{{circular}}" class="swiper_act">
   </block>
 </swiper>
 <view class="wrap_btn">
-<view></view>
-<view></view>
-<view></view>
-<view></view>
+  <view wx:for="{{fourBCt}}">
+    {{item.text}}
+  </view>
 </view>

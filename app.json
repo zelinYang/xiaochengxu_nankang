@@ -2,13 +2,32 @@
   "pages": [
     "pages/content/content",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/my/my"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarBackgroundColor": "#FFE4B5",
+    "navigationBarTitleText": "南康仙府",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#aaa",
+    "selectedColor": "#B3EE3A",
+    "list": [
+      {
+        "pagePath": "pages/content/content",
+        "iconPath": "/Image/icon/bar/shouye.png",
+        "selectedIconPath": "/Image/icon/bar/shouye_s.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "/Image/icon/bar/wode.png",
+        "selectedIconPath": "/Image/icon/bar/wode_s.png",
+        "text": "我的"
+      }
+    ]
   },
   "sitemapLocation": "sitemap.json"
 }

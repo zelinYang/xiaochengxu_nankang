@@ -1,47 +1,18 @@
-// pages/content/content.js
+// pages/my/my.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    indicatorDots: true,
-    autoplay: true,
-    interval: 3000,
-    duration: 1000,
-    imgURLs: [
-      '../../Image/1.jpg',
-      '../../Image/2.jpg',
-      '../../Image/3.jpg',
-      '../../Image/4.jpg',
-      '../../Image/5.jpg',
-    ],
-    icoURLs: [],
-    fourBCt: [
-      {
-        text: '政务公开',
-        img: ''
-      },
-      {
-        text: '公款透明',
-        img: ''
-      },
-      {
-        text: '开放建设',
-        img: ''
-      },
-      {
-        text: '发展方向',
-        img: ''
-      }
-    ]
+
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    console.log(this.data.fourBCt)
+
   },
 
   /**
