@@ -12,7 +12,7 @@ circular="{{circular}}" class="swiper_act">
   </block>
 </swiper>
 <view class="wrap_btn">
-  <view wx:for="{{fourBCt}}">
+  <view wx:for="{{fourBCt}}" bindtap="gotoLitlepage" wx:for-index="idex" data-index="{{idex}}">
     {{item.text}}
   </view>
 </view>

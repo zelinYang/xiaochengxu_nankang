@@ -1,7 +1,7 @@
 //index.js
 //获取应用实例
 const app = getApp()
-
+console.log(app);
 Page({
   data: {
     motto: '欢迎你回家',
@@ -11,9 +11,11 @@ Page({
   },
   //事件处理函数
   bindViewTap: function() {
-    wx.navigateTo({
-      url: '../logs/logs'
+    console.log(1)
+    wx.redirectTo({
+      url: '../content/content'
     })
+    console.log(1)
   },
   onLoad: function () {
     if (app.globalData.userInfo) {
