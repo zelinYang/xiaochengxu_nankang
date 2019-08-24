@@ -36,7 +36,32 @@ Page({
       }
     ]
   },
-
+  gotoLitlepage(e){
+    console.log(e.currentTarget.dataset['index'])
+    let idex = e.currentTarget.dataset['index']
+    switch (idex){
+      case 0:
+        wx.navigateTo({
+          url: './zwgk/zwgk'
+        });
+        break;
+      case 1:
+        wx.navigateTo({
+          url: './gktm/gktm'
+        });
+        break;
+      case 2:
+        wx.navigateTo({
+          url: './kfjs/kfjs'
+        });
+        break;
+      case 3:
+        wx.navigateTo({
+          url: './fzfx/fzfx'
+        });
+        break;
+    }
+  },
   /**
    * 生命周期函数--监听页面加载
    */

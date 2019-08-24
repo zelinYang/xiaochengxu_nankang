@@ -3,7 +3,11 @@
     "pages/index/index",
     "pages/content/content",
     "pages/logs/logs",
-    "pages/my/my"
+    "pages/my/my",
+    "pages/content/zwgk/zwgk",
+    "pages/content/gktm/gktm",
+    "pages/content/kfjs/kfjs",
+    "pages/content/fzfx/fzfx"
   ],
   "window": {
     "backgroundTextStyle": "light",
