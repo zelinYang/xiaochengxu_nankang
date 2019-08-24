@@ -11,11 +11,9 @@ Page({
   },
   //事件处理函数
   bindViewTap: function() {
-    console.log(1)
-    wx.redirectTo({
+    wx.switchTab ({
       url: '../content/content'
     })
-    console.log(1)
   },
   onLoad: function () {
     if (app.globalData.userInfo) {
